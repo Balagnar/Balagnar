@@ -9,12 +9,6 @@ Here are some ideas to get you started:
 - 👩‍💻 Atualmente trabalho como Analista de Suporte Pleno e Analista de Sistemas JR.
 - 📖 Atualmente estou aprendendo sobre JAVA
 - 🤓 Tenho interesse em aprender sobre Gestão de Ti
---------------------------------------------------------------------------------------------
-
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=Balagnar&layout=compact&langs_count=8&card_width=320&theme=dark" />
-</a>
-
 -----------------------------------------------------------------------------------------
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
